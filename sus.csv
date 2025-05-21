@@ -1,0 +1,33 @@
+$submission_id;$created;First name;Control Setup;I think that I would like to use this system frequently.;I found the system unnecessarily complex.;I thought the system was easy to use.;I think that I would need the support of a technical person to be able to use this system.;I found the various functions in this system were well integrated.;I thought there was too much inconsistency in this system.;I would imagine that most people would learn to use this system very quickly.;I found the system very cumbersome to use.;I felt very confident using the system.;I needed to learn a lot of things before I could get going with this system.;$answer_time_ms;Odd item sum;Even item sum;SUS SCORE
+36489672;06.05.2025;Ambjørn;Rugged Controller;1;1;4;1;3;1;5;2;4;1;211433;12;19;77,5
+36490288;06.05.2025;Ambjørn;Apple Vision Pro (NATIVE);4;2;5;1;5;1;3;1;5;1;230516;17;19;90
+36490626;06.05.2025;Ambjørn;Apple Vision Pro (PORTED);5;3;5;1;4;1;3;1;5;1;96902;17;18;87,5
+36514059;07.05.2025;Marcus;Apple Vision Pro (NATIVE);5;1;4;2;5;1;5;3;5;3;271267;19;15;85
+36514683;07.05.2025;Marcus;Rugged Controller;4;2;4;1;4;3;4;1;5;1;226992;16;17;82,5
+36515129;07.05.2025;Marcus;Apple Vision Pro (PORTED);5;1;5;2;4;4;5;1;5;2;154015;19;15;85
+36607271;14.05.2025;Bjørn Kåre;Apple Vision Pro (PORTED);4;2;4;1;3;2;4;2;5;2;153356;15;16;77,5
+36607896;14.05.2025;Bjørn Kåre;Apple Vision Pro (NATIVE);5;1;5;1;5;1;5;1;5;2;83095;20;19;97,5
+36608222;14.05.2025;Bjørn Kåre;Rugged Controller;5;1;5;1;4;1;5;1;5;2;73497;19;19;95
+36610069;14.05.2025;Leo;Rugged Controller;4;1;4;1;5;1;4;2;5;2;174702;17;18;87,5
+36610557;14.05.2025;Leo;Apple Vision Pro (PORTED);4;1;5;1;5;1;3;1;5;3;113973;17;18;87,5
+36610824;14.05.2025;Leo;Apple Vision Pro (NATIVE);5;2;5;3;4;1;4;2;5;3;78382;18;14;80
+36622950;15.05.2025;Md Shamin;Apple Vision Pro (NATIVE);4;2;3;2;5;2;5;2;5;2;93821;17;15;80
+36623233;15.05.2025;Md Shamin;Apple Vision Pro (PORTED);3;2;3;3;2;5;3;2;3;1;152731;9;12;52,5
+36623494;15.05.2025;Md Shamin;Rugged Controller;2;2;4;2;3;4;2;4;5;2;122747;11;11;55
+36625846;15.05.2025;Martin;Apple Vision Pro (PORTED);4;2;5;1;4;2;4;1;4;2;211612;16;17;82,5
+36626024;15.05.2025;Martin;Rugged Controller;4;1;5;1;4;1;5;1;4;1;113234;17;20;92,5
+36626243;15.05.2025;Martin;Apple Vision Pro (NATIVE);4;2;5;1;4;1;5;2;5;1;98519;18;18;90
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;Rugged avg;81,66666667
+;;;;;;;;;;;;;;;;Ported avg;78,75
+;;;;;;;;;;;;;;;;Native avg;87,08333333
